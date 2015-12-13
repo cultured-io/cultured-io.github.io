@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Cultured.io
+tagline:             'ferments for life'
+description:         ''
+url:                 http://cultured.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Jeff Cressman
+  url:               https://twitter.com/jeffcressman
+  email:             jeff.cressman@gmail.com
+
+# Custom vars
+version:             0.0.1

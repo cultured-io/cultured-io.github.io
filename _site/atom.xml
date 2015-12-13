@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Cultured</title>
+ <link href="http://cultured.io/atom.xml" rel="self"/>
+ <link href="http://cultured.io/"/>
+ <updated>2015-12-13T21:03:35+10:30</updated>
+ <id>http://cultured.io</id>
+ <author>
+   <name>Jeff Cressman</name>
+   <email>jeff.cressman@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
